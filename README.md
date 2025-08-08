@@ -1,13 +1,13 @@
-# libgit2 for iOS
+# LibGit2-iOS
 
 This repository provides a pre-compiled `libgit2.xcframework` for use with CocoaPods on iOS projects.
 
 ## Installation
 
-To install `libgit2` using CocoaPods, add the following line to your `Podfile`:
+To install `LibGit2-iOS` using CocoaPods, add the following line to your `Podfile`:
 
 ```ruby
-pod 'libgit2', :git => 'https://github.com/acg7878/libgit2-pod', :tag => '1.9.2'
+pod 'LibGit2-iOS', '~>1.9.2'
 ```
 
 ## Usage
